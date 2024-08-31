@@ -7,3 +7,6 @@ My data science and analytics projects
 2. R programming
 3. Looker Dashboard
 4. Linear Regression Model
+
+## Contact Me
+supasin.stc@gmail.com
