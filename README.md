@@ -9,4 +9,4 @@ My data science and analytics projects
 4. Linear Regression Model
 
 ## Contact Me
-supasin.stc@gmail.com
+Email: supasin.stc@gmail.com
